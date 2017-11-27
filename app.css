@@ -41,4 +41,5 @@ br {
 table, th, td {
     border: 1px solid black;
     margin: auto;
+    padding: 0px 400px 0px 400px;
 }
