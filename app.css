@@ -41,5 +41,4 @@ br {
 table, thead, tbody, th, td, tr {
     border: 1px solid black;
     margin: auto;
-    padding: 0px 400px 0px 400px;
 }
