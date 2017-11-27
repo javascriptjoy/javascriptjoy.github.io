@@ -16,7 +16,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 p {
-    padding: 0px 600px 0px 600px;
+    padding: 0px 200px 0px 200px;
 }
 
 .header-pic {
@@ -28,7 +28,7 @@ p {
 .button {
 }
 h1, h2, h3 {
-    padding: 0px 600px 0px 600px;
+    padding: 0px 200px 0px 200px;
 }
 @media (max-width: 1000px) {
 p, h2, h3 {
