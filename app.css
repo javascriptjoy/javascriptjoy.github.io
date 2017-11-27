@@ -38,7 +38,7 @@ p, h2, h3 {
 br {
     padding: 10px 0px 10px 0px;
 }
-table, th, td {
+table, thead, tbody, th, td, tr {
     border: 1px solid black;
     margin: auto;
     padding: 0px 400px 0px 400px;
