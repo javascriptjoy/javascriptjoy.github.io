@@ -43,5 +43,6 @@ table, thead, tbody, th, td, tr {
     margin: auto;
 }
 .talentshow {
-    margin: auto;
+    display: block;
+    margin: 0 auto;
 }
